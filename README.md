@@ -34,7 +34,7 @@ The Pizza Game app starts off in the pizzeria where you're greeted with big, ret
 	- Shows any Chefs or Tools in your wallet not being used.
 - Resting
 	- When you unstake your Chefs from the pizzeria, they will need to rest from working hard. (6 hours for Chefs and 3 hours for Master Chefs) 
-- Skill tree
+- Skill Tree
 	- Enables special power-ups to your pizzeria for a price.
 	- Requires a deposit of $SODA (More on this later)
 
