@@ -1,4 +1,4 @@
-# How to Start on Pizza Game
+# Getting Started with Pizza Game
 
 P2E (Play-to-Earn) is a rapidly growing subsection of the cryptocurrency landscape. There is so much opportunity to navigate through that sometimes you can get caught up in the weeds pretty quickly. That’s why I’m breaking down how to get started with one of my favorite P2Es, Pizza Game.
 
