@@ -5,7 +5,7 @@ P2E (Play-to-Earn) is a rapidly growing subsection of the cryptocurrency landsca
 Pizza Game is a web-based idle game on the [Avalanche](https://www.avax.network/) Blockchain where you are the owner of a digital pizzeria! The user obtains Chefs ([ERC-721](https://decrypt.co/resources/erc-721-ethereum-nft-token-standard) NFTs)  or Master Chefs (powered-up Chef) to work and create $PIZZA (an [ERC-20](https://decrypt.co/resources/what-are-erc-20-gas-ether-ethereum) token) as long as they are staked in your pizzeria. The goal here is to collect NFTs to upgrade your pizzeria’s $PIZZA production and “dominate” the Pizza Industry! The developers continually add new scenarios and tools that tweak the game’s mechanics to ever so slightly change the [meta](https://dotesports.com/general/news/what-is-the-meta-meaning-24834) while maintaining balance to the game’s economy.
 
 Interested? Let’s go through what to expect when you first reach 
-the [homepage](https://pizza.game/).
+the <a href="https://pizza.game/" target="_blank" rel="noopener noreferrer">homepage</a>.
 
 <img width="900" alt="PizzaDotGame Homepage" src="https://user-images.githubusercontent.com/17716182/171506492-681acd05-dfc3-46f1-8640-4c33ce79eb56.png">
 
